@@ -1,0 +1,260 @@
+@media only screen and (max-width:600px) {
+    .header-menu {
+        display: none;
+    }
+
+    /* TITLE */
+    .title-content {
+        margin: 76px 0 25px;
+        font-size: 35px;
+        font-weight: 700;
+    }
+
+    .title-post {
+        margin: 0 12px;
+        font-size: 18px;
+        font-weight: 400;
+        opacity: 0.5;
+    }
+
+    .title-btn {
+        margin-top: 32px;
+    }
+
+    .btn-started {
+        width: 90%;
+    }
+
+    .btn-featured {
+        width: 90%;
+        margin-top: 20px;
+    }
+
+    .title-img {
+        margin-top: 120px;
+    }
+
+    /* ABOUT */
+    .about-tittle {
+        font-size: 24px;
+        margin: 0 15px;
+    }
+
+    .about-post {
+        margin: 16px 11px 0;
+        font-size: 16px;
+    }
+
+    .about-footer_title {
+        font-size: 24px;
+    }
+
+    .about-footer_text {
+        font-size: 16px;
+    }
+
+    /* FEATURED */
+    .featured-text_title {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .featured-text_post {
+        font-size: 16px;
+        text-align: center;
+    }
+}
+
+@media only screen and (min-width:600px) {
+    .header-menu {
+        display: none;
+    }
+
+    /* TITLE */
+    .title-content {
+        margin: 76px 0 25px;
+        font-size: 35px;
+        font-weight: 700;
+    }
+
+    .title-post {
+        margin: 0 12px;
+        font-size: 18px;
+        font-weight: 400;
+        opacity: 0.5;
+    }
+
+    .title-btn {
+        margin-top: 32px;
+    }
+
+    .btn-started {
+        width: 50%;
+    }
+
+    .btn-featured {
+        width: 50%;
+        margin-top: 20px;
+    }
+
+    .title-img {
+        margin-top: 120px;
+    }
+
+    /* ABOUT */
+    .about-tittle {
+        font-size: 24px;
+        margin: 0 15px;
+    }
+
+    .about-post {
+        margin: 16px 11px 0;
+        font-size: 16px;
+    }
+
+    .about-footer_title {
+        font-size: 24px;
+    }
+
+    .about-footer_text {
+        font-size: 16px;
+    }
+
+    /* FEATURED */
+    .featured-text_title {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .featured-text_post {
+        font-size: 16px;
+        text-align: center;
+    }
+
+    /* MESSAGE */
+    .message-text_title {
+        font-size: 24px;
+    }
+
+    .message-text_post {
+        font-size: 16px;
+    }
+
+    /* JOIN */
+    .join-title {
+        font-size: 28px;
+    }
+
+    .join-post {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (min-width:768px) {
+    .btn-started {
+        width: 20%;
+    }
+
+    .btn-featured {
+        width: 20%;
+        margin-left: 24px;
+    }
+}
+
+@media only screen and (min-width:920px) {
+    .container {
+        margin: 0 120px;
+    }
+
+    .header {
+        padding-top: 19px;
+    }
+
+    .header-menu {
+        width: 50%;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    /* TITLE */
+
+    .title-btn {
+        margin-top: 56px;
+    }
+
+    .btn-started {
+        width: 15%;
+    }
+
+    .btn-featured {
+        width: 15%;
+        margin-left: 24px;
+    }
+
+    .title-img {
+        margin-top: 54px;
+    }
+
+
+}
+
+@media only screen and (min-width:1200px) {
+
+    /* TITLE */
+    .title-content {
+        margin: 111px 143px 47px;
+        font-size: 65px;
+    }
+
+    .title-post {
+        margin: 0 198px;
+        font-size: 22px;
+    }
+
+    /* ABOUT */
+    .about-tittle {
+        margin: 0 251px;
+        font-size: 40px;
+    }
+
+    .about-post {
+        margin: 20px 223px 0;
+        font-size: 22px;
+    }
+
+    .about-footer_title {
+        font-size: 40px;
+    }
+
+    .about-footer_text {
+        font-size: 22px;
+    }
+
+    /* FEATURED */
+    .featured-text_title {
+        font-size: 40px;
+    }
+
+    .featured-text_post {
+        font-size: 22px;
+    }
+
+    /* MESSAGE */
+    .message-text_title {
+        font-size: 40px;
+    }
+
+    .message-text_post {
+        font-size: 22px;
+    }
+
+    /* JOIN */
+    .join-title {
+        font-size: 50px;
+    }
+
+    .join-post {
+        font-size: 22px;
+    }
+}
